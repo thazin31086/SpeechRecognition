@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 Reset
+=======
+local changes 3
+local changes 2
+remote changes 2
+remote changes 3
+remote changes 4
+>>>>>>> 850c6179c6fe73d1c8fa48711a307ae90ed9058e
