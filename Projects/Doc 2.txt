@@ -1,1 +1,2 @@
-Source 1-- local changes 1
+local changes 1
+Remote change
